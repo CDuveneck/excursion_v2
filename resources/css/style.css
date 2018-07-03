@@ -1,0 +1,42 @@
+body {
+  background-color: Black;
+}
+h1, h2, p {
+  font-family: Verdana;
+  color: White;
+  text-align: center;
+}
+h1  {
+  font-weight: normal;
+  font-size: 50px;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cellphone {
+    margin-top: 25px;
+}
+.download {
+  text-decoration: underline;
+  color: Aquamarine;
+  font-size: 16px;
+}
+.excursion {
+  text-align: right;
+  color: Grey;
+}
+.travelguide {
+  font-size: 21px;
+  color: Grey;
+}
